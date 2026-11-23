@@ -1,12 +1,16 @@
-﻿# SpeedoPro — Velocímetro GPS Gratuito y Sin Publicidad (Argentina)
+﻿# L_AIO GPS — Velocímetro GPS Gratuito y Sin Publicidad (Argentina)
 
-Velocímetro GPS nativo para Android desarrollado en **Kotlin** y **Jetpack Compose**, **100% gratuito** y **sin publicidad**, diseñado para circular en rutas, autopistas y ciudades de **Argentina** con alertas de **cámaras de velocidad** y **semáforos**.
+**L_AIO GPS** es un velocímetro GPS nativo para Android desarrollado en **Kotlin** y **Jetpack Compose**, **100% gratuito** y **sin publicidad**, pensado para circular en rutas, autopistas y ciudades de **Argentina** con alertas de **cámaras de velocidad** y **semáforos**.
+
+## Sobre este proyecto
+
+Este es un proyecto personal hecho por un hobbista que no sabe programar, pero que usó **IA** para armar la aplicación porque estaba cansado de las apps de la Play Store que no funcionan bien y están llenas de publicidad.
 
 ## Qué ofrece
 
-- **100% gratuito y sin publicidad:** Sin anuncios, sin suscripciones ni funciones bloqueadas.
+- **100% gratuito y sin publicidad:** Sin anuncios invasivos, sin suscripciones ni funciones bloqueadas.
 - **Alertas viales en territorio argentino:** Avisos orientativos al acercarte a **cámaras de velocidad** y **semáforos** en recorridos urbanos, accesos y rutas del país.
-- **Velocímetro GPS claro y preciso:** Vista digital de gran lectura y dial analógico con filtrado para reducir el ruido de señal estacionaria.
+- **Velocímetro GPS claro y preciso:** Vista digital de lectura directa y dial analógico con filtrado para reducir el ruido de señal estacionaria.
 - **Métricas de viaje en tiempo real:** Distancia recorrida, velocidad máxima y velocidad promedio.
 - **Bilingüe y adaptable:** Alterna entre **Español (`ES`)** e **Inglés (`EN`)**, y entre **km/h** y **mph** al instante.
 
